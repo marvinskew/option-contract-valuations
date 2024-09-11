@@ -1,0 +1,9 @@
+[2024-09-10 21:04:21 - __main__ - 234 - INFO ]: {'Spot Price': '$200.5800', 'Strike Price': '$160.6900', 'Riskfree Interest Rate': 0.1289, 'Expiry (Exercise) Time': 90.0, 'Volatility': 0.546, 'Dividend-Yield': 0.0, 'Option-Contract-Type': 'Call'}
+[2024-09-10 21:04:21 - __main__ - 235 - INFO ]: 
+
+[2024-09-10 21:04:21 - __main__ - 236 - INFO ]: OptionContractPricing(200.58, 160.69, 0.1289, 90.0,0.546, 0.0, Call)
+[2024-09-10 21:04:21 - __main__ - 170 - INFO ]: Computed risk neutral probability (Q-measure) for up-factor : 0.7437435128589552
+[2024-09-10 21:04:21 - __main__ - 171 - INFO ]: Computed risk neutral probability (Q-measure) for down-factor : 0.25625648714104476
+[2024-09-10 21:04:21 - __main__ - 176 - INFO ]: Computing the 90th day period payoff of Call option contract.
+[2024-09-10 21:04:21 - __main__ - 237 - INFO ]: Payoff of Call option contract using Multi-period Bionomial-Pricing valuation : 1.217146809461859e-09
+[2024-09-10 21:04:21 - __main__ - 238 - INFO ]: Payoff of Call option contract using Black-Scholes Pricing valuation : 47.50242142711578
